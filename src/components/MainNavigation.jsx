@@ -8,7 +8,7 @@ export default function MainNavigation() {
     <nav className="nav-bar flex justify-between items-center bg-white p-4 shadow-md border-b">
       <div className="flex items-center">
         
-        <h1 className="text-2xl font-bold">Foodexconsole.log('MainNavigation component rendered');</h1>
+        <h1 className="text-2xl font-bold">Foodex</h1>
       </div>
       <ul className="flex space-x-4">
         <li>
