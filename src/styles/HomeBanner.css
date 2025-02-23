@@ -1,0 +1,21 @@
+.home-banner {
+    background-color: #ffcccc;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home-banner h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .home-banner p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .home-banner button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+  }

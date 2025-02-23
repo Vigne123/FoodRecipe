@@ -1,0 +1,49 @@
+.recipe-card {
+  border: 1px solid #eb9494;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  margin: 10px;
+  position: relative;
+  overflow: hidden; /* Ensure content doesn't overflow */
+  background-color: #f1bc71;
+}
+
+.recipe-card img {
+  width: 100%;
+  height: 200px; /* Adjust the height as needed */
+  object-fit: cover; /* Ensure the image covers the area without distortion */
+  border-radius: 8px;
+}
+
+.recipe-card h3 {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.recipe-card p {
+  font-size: 1em;
+  color: #555;
+}
+
+.recipe-card button {
+  background-color: #f1791e;
+  color: rgb(111, 164, 132);
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.recipe-card .delete-button {
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
